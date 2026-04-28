@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.db
+*.fasta
+*.fa
+*.gff3
+.DS_Store
